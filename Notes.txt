@@ -1,0 +1,13 @@
+Tiles
+	Shouldn't need to exist, just have it so two  similar actors can't be on the same space.
+
+Grass
+	grass grows, and halts growing while being stepped on
+	when it's fully grown it spreads and then dies
+Sheep
+	Sheep finds and eat grass
+	And flees from wolves
+	or wanders
+Wolves
+	Wolves chase and eat sheep when hungry
+	Or wanders
